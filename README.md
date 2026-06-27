@@ -14,8 +14,8 @@
 [Features](#-features) · [Structure](#-project-structure) · [Quick Start](#-quick-start) · [Pages](#-pages-overview) · [Future Work](#-future-improvements)
 
 </div>
+ [Features](https://super-choux-46de5b.netlify.app/)
 
---- <a href=https://super-choux-46de5b.netlify.app/></a>Live link
 
 ## 📌 Overview
 
